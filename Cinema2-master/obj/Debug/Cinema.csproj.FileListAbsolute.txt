@@ -1,0 +1,9 @@
+C:\Users\opilane\source\repos\Cinema2-master\bin\Debug\Kinoteatr_bilet.exe.config
+C:\Users\opilane\source\repos\Cinema2-master\bin\Debug\Kinoteatr_bilet.exe
+C:\Users\opilane\source\repos\Cinema2-master\bin\Debug\Kinoteatr_bilet.pdb
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Kinoteatr_bilet.Properties.Resources.resources
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Kinoteatr_bilet.exe
+C:\Users\opilane\source\repos\Cinema2-master\obj\Debug\Kinoteatr_bilet.pdb
